@@ -2,7 +2,7 @@
 """Defines a class Square"""
 
 
-class Square :
+class Square:
     """
     Class that defines properties of square by: (based on 0-square.py).
 
